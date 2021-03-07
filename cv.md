@@ -26,8 +26,8 @@ I’m focused on results, highly responsible and reliable, fast learning and mot
 
 ### Code examples & projects 
   I've completed several projects, but all of them only in web.archive. 
-* My own project: Virtual tours on my native town [Gorlovka360](https://web.archive.org/web/20180509161048/http://www.gorlovka360.dn.ua/)
-* Simple site for small children’s education studio: <https://web.archive.org/web/20140516185447/http://lana.dn.ua/>
+* My own project (including photo) about virtual tours on my native town [Gorlovka360](https://web.archive.org/web/20180509161048/http://www.gorlovka360.dn.ua/)
+* Simple site for children’s education studio [Studio "Lana"](https://web.archive.org/web/20140516185447/http://lana.dn.ua/)
 * Online store on Opencart: <https://web.archive.org/web/20151023105817/http://alttex.com.ua/>
  
 ### Online courses
