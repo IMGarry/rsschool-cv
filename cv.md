@@ -14,6 +14,8 @@ I’m focused on results, highly responsible and reliable, fast learning and mot
 * CMS - WP, Joomla, Opencart. Administration: Bitrix, Yii Framework
 * GitHub, Git
 * Photoshop, Corel, Illustrator
+* Professional panoramic photographer
+* Creating virtual tours
 
 ## Education
 * Donetsk National University of Economic and Trade
@@ -28,7 +30,7 @@ I’m focused on results, highly responsible and reliable, fast learning and mot
   I've completed several projects, but all of them only in web.archive. 
 * My own project (including photo) about virtual tours on my native town [Gorlovka360](https://web.archive.org/web/20180509161048/http://www.gorlovka360.dn.ua/)
 * Simple site for children’s education studio [Studio "Lana"](https://web.archive.org/web/20140516185447/http://lana.dn.ua/)
-* Online store on Opencart: <https://web.archive.org/web/20151023105817/http://alttex.com.ua/>
+* [Online store](https://web.archive.org/web/20151023105817/http://alttex.com.ua/) on Opencart: 
  
 ### Online courses
 * Self-education on many resources
