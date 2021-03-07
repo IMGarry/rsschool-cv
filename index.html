@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="style.css" />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap"
+			rel="stylesheet"
+		/>
+		<script
+			src="https://kit.fontawesome.com/2f94be4a36.js"
+			crossorigin="anonymous"
+		></script>
+		<title>Igor Marchenko CV</title>
+	</head>
+	<body>
+		<main class="resume">
+			<div class="column">
+				<section class="profile">
+					<article><h1>Igor Marchenko</h1></article>
+					<p><em>Frontend developer</em></p>
+					<figure>
+						<img src="profile.jpg" alt="Igor Marchenko" />
+					</figure>
+				</section>
+
+				<section class="contact">
+					<article><h2>Contact</h2></article>
+					<ul>
+						<li>
+							<i class="fas fa-mail-bulk"></i>
+							<a href="mailto:garry_m@ukr.net">garry_m@ukr.net</a>
+						</li>
+						<li>
+							<i class="fa fa-phone" aria-hidden="true"></i>
+							<a href="tel:+375292875696">+375 (29) 287-56-96</a>
+						</li>
+
+						<li>
+							<i class="fab fa-facebook-square"></i>
+							<a href="https://www.facebook.com/garry.marchenko">Facebook</a>
+						</li>
+
+						<li>
+							<i class="fab fa-linkedin"></i>
+							<a href="https://www.linkedin.com/in/igor-marchenko-990466b5/"
+								>Linkedin</a
+							>
+						</li>
+					</ul>
+				</section>
+
+				<section class="objectives">
+					<article><h2>About me</h2></article>
+					<p>
+						My main aim is to gain knowledge to become a professional frontend
+						developer. I want to make successful career in this field. I’m focused on
+						results, highly responsible and reliable, fast learning and motivated and
+						I keen on IT.
+					</p>
+				</section>
+
+				<section class="skills">
+					<article><h2>Capabilities | Skills</h2></article>
+					<ul>
+						<li>
+							<h3>Professional</h3>
+							<ul>
+								<li>Java Script</li>
+								<li>HTML5</li>
+								<li>CSS3</li>
+								<li>CMS</li>
+								<li>Node.JS</li>
+								<li>React</li>
+							</ul>
+						</li>
+						<li>
+							<h3>Personal</h3>
+							<ul>
+								<li>Focused on results</li>
+								<li>Responsible</li>
+								<li>Reliable</li>
+								<li>Fast learning</li>
+								<li>Keen on IT</li>
+							</ul>
+						</li>
+					</ul>
+				</section>
+
+				<section class="skills">
+					<article><h2>English</h2></article>
+					<p>
+						B1. Passed Cambridge English Exam in International House Minsk 01/2019
+					</p>
+				</section>
+			</div>
+
+			<div class="column">
+				<section class="education">
+					<article><h2>Education</h2></article>
+					<ul class="timeline">
+						<li class="event">
+							<span class="duration">2000 - 2005</span>
+							<div class="content">
+								<h4>Master of Economics</h4>
+								<p><em>Donetsk National University of Economic and Trade</em></p>
+							</div>
+						</li>
+
+						<li class="event">
+							<span class="duration">2009 - 2014</span>
+							<div class="content">
+								<h4>Specialist in electrical networks and systems</h4>
+								<p><em>Donetsk National Technical University</em></p>
+							</div>
+						</li>
+					</ul>
+				</section>
+				<section class="online education">
+					<article><h2>Online education</h2></article>
+					<ul>
+						<li>JavaScript / DOM / Interfaces from https://learn.javascript.ru/</li>
+						<li>HTML academy</li>
+						<li>Wes Bos</li>
+						<li>Self-education on many resources</li>
+					</ul>
+				</section>
+				<section class="projects">
+					<article><h2>Code examples & projects</h2></article>
+					<article><h3>Projects</h3></article>
+					<p>
+						I’ve completed several projects, but all of them only in
+						<a href="https://web.archive.org/">Internet Archive</a>
+					</p>
+
+					<ul>
+						<li>
+							<p>
+								My own project (including photo) - virtual tours on my native town
+								<a
+									href="https://web.archive.org/web/20180509161048/http://www.gorlovka360.dn.ua/"
+									>Gorlovka360</a
+								>
+							</p>
+						</li>
+						<li>
+							<p>
+								Simple site for small children’s education studio
+								<a href="https://web.archive.org/web/20140516185447/http://lana.dn.ua/"
+									>Studio Lana</a
+								>
+							</p>
+						</li>
+						<li>
+							<p>
+								<a
+									href="https://web.archive.org/web/20151023105817/http://alttex.com.ua/"
+									>Online store</a
+								>
+								on Opencart
+							</p>
+						</li>
+					</ul>
+				</section>
+				<article><h3>Code example</h3></article>
+				<pre><code>
+const array = ['floor', 'wall', 'roof', 'roof']
+const reduceResult = array.reduce((acc, rec, index) => {
+  if (Object.values(acc).indexOf(rec) > -1) {
+    return acc
+  } return {...acc, [index+1] : rec }
+}, {})</code>
+      </pre>
+			</div>
+		</main>
+
+		<footer>
+			<ul>
+				<li>
+					<a class="rs-school" href="https://rs.school/js/">
+						<img class="rs-school_logo" src="logo-rsschool.png" alt="RS School" />
+					</a>
+				</li>
+
+				<li>
+					<div class="year">
+						<p>2021</p>
+					</div>
+				</li>
+				<li>
+					<div class="icon">
+						<a class="link" href="https://github.com/IMGarry"
+							><i class="fa fa-github" aria-hidden="true"></i
+						></a>
+					</div>
+				</li>
+
+				<li>
+					<div class="icon">
+						<a class="link" href="https://youtu.be/"
+							><i class="fa fa-youtube-play" aria-hidden="true"></i
+						></a>
+					</div>
+				</li>
+			</ul>
+		</footer>
+	</body>
+</html>
