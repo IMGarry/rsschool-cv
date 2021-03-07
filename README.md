@@ -1,1 +1,1 @@
-# rsschool-cv
+https://imgarry.github.io/rsschool-cv/cv
