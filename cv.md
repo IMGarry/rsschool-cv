@@ -27,7 +27,7 @@ I’m focused on results, highly responsible and reliable, fast learning and mot
 * English (B1. Passed Cambridge English Exam in International House Minsk 01/2019) 
 
 ### Code examples & projects 
-  I've completed several projects, but all of them only in web.archive. 
+  I've completed several projects, but all of them only in [Internet Archive](https://web.archive.org/). 
 * My own project (including photo) about virtual tours on my native town [Gorlovka360](https://web.archive.org/web/20180509161048/http://www.gorlovka360.dn.ua/)
 * Simple site for children’s education studio [Studio "Lana"](https://web.archive.org/web/20140516185447/http://lana.dn.ua/)
 * [Online store](https://web.archive.org/web/20151023105817/http://alttex.com.ua/) on Opencart: 
